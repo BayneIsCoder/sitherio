@@ -1,2 +1,2 @@
 # slitherio
-im trying to make slither.io have a ssl by having it use my domain.
+Sitherio is a project that I created as a solution to a specific issue with Slither.io. The problem is that Slither.io does not have an SSL certificate, which can cause security concerns or accessibility issues for certain users. To address this, I am working on a way to provide Slither.io with SSL support by running it through my own domain. Essentially, the project involves embedding Slither.io within my site, allowing it to function under a secure HTTPS connection while maintaining the original gameplay experience. thats why i made Sitherio
